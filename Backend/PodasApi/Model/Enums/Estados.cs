@@ -4,7 +4,7 @@ using System.Text;
 
 namespace PodasApi.Entities.Enums
 {
-    enum Estados
+    public enum Estados
     {
         ACTIVO,
         PENDIENTE,

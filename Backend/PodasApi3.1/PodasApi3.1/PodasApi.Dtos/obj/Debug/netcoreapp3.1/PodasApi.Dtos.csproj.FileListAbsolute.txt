@@ -1,0 +1,9 @@
+D:\Mario\desarrollos\podas\Backend\PodasApi3.1\PodasApi3.1\PodasApi.Dtos\bin\Debug\netcoreapp3.1\PodasApi.Dtos.deps.json
+D:\Mario\desarrollos\podas\Backend\PodasApi3.1\PodasApi3.1\PodasApi.Dtos\bin\Debug\netcoreapp3.1\PodasApi.Dtos.dll
+D:\Mario\desarrollos\podas\Backend\PodasApi3.1\PodasApi3.1\PodasApi.Dtos\bin\Debug\netcoreapp3.1\PodasApi.Dtos.pdb
+D:\Mario\desarrollos\podas\Backend\PodasApi3.1\PodasApi3.1\PodasApi.Dtos\obj\Debug\netcoreapp3.1\PodasApi.Dtos.csprojAssemblyReference.cache
+D:\Mario\desarrollos\podas\Backend\PodasApi3.1\PodasApi3.1\PodasApi.Dtos\obj\Debug\netcoreapp3.1\PodasApi.Dtos.csproj.CoreCompileInputs.cache
+D:\Mario\desarrollos\podas\Backend\PodasApi3.1\PodasApi3.1\PodasApi.Dtos\obj\Debug\netcoreapp3.1\PodasApi.Dtos.AssemblyInfoInputs.cache
+D:\Mario\desarrollos\podas\Backend\PodasApi3.1\PodasApi3.1\PodasApi.Dtos\obj\Debug\netcoreapp3.1\PodasApi.Dtos.AssemblyInfo.cs
+D:\Mario\desarrollos\podas\Backend\PodasApi3.1\PodasApi3.1\PodasApi.Dtos\obj\Debug\netcoreapp3.1\PodasApi.Dtos.dll
+D:\Mario\desarrollos\podas\Backend\PodasApi3.1\PodasApi3.1\PodasApi.Dtos\obj\Debug\netcoreapp3.1\PodasApi.Dtos.pdb

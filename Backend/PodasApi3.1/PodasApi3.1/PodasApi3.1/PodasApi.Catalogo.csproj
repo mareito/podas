@@ -1,0 +1,58 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>PodasApi3._1</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20200429212107_Migration20200429.cs" />
+    <Compile Remove="Migrations\20200429212107_Migration20200429.Designer.cs" />
+    <Compile Remove="Migrations\20200429213449_Migratin1.cs" />
+    <Compile Remove="Migrations\20200429213449_Migratin1.Designer.cs" />
+    <Compile Remove="Migrations\20200429214309_Migration1.cs" />
+    <Compile Remove="Migrations\20200429214309_Migration1.Designer.cs" />
+    <Compile Remove="Migrations\20200429215309_Migration1.cs" />
+    <Compile Remove="Migrations\20200429215309_Migration1.Designer.cs" />
+    <Compile Remove="Migrations\20200429220112_migration1.cs" />
+    <Compile Remove="Migrations\20200429220112_migration1.Designer.cs" />
+    <Compile Remove="Migrations\20200429220313_Migration1.cs" />
+    <Compile Remove="Migrations\20200429220313_Migration1.Designer.cs" />
+    <Compile Remove="Migrations\20200429220417_Migration1.cs" />
+    <Compile Remove="Migrations\20200429220417_Migration1.Designer.cs" />
+    <Compile Remove="Migrations\20200429220510_Migration1.cs" />
+    <Compile Remove="Migrations\20200429220510_Migration1.Designer.cs" />
+    <Compile Remove="Migrations\20200429220634_migration1.cs" />
+    <Compile Remove="Migrations\20200429220634_migration1.Designer.cs" />
+    <Compile Remove="Migrations\20200430014524_Miggration1.cs" />
+    <Compile Remove="Migrations\20200430014524_Miggration1.Designer.cs" />
+    <Compile Remove="Migrations\20200430015512_Migation1.cs" />
+    <Compile Remove="Migrations\20200430015512_Migation1.Designer.cs" />
+    <Compile Remove="Migrations\20200430015607_Migration1.cs" />
+    <Compile Remove="Migrations\20200430015607_Migration1.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.3" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.3">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="3.1.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.3">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.2" />
+    <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="3.1.1" />
+    <PackageReference Include="Pomelo.EntityFrameworkCore.MySql.Design" Version="1.1.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PodasApi.Dtos\PodasApi.Dtos.csproj" />
+    <ProjectReference Include="..\PodasApi.Entities\PodasApi.Entities.csproj" />
+  </ItemGroup>
+
+
+</Project>

@@ -1,0 +1,9 @@
+D:\Mario\desarrollos\podas\Backend\PodasApi\Model\bin\Debug\netcoreapp2.2\PodasApi.Entities.deps.json
+D:\Mario\desarrollos\podas\Backend\PodasApi\Model\bin\Debug\netcoreapp2.2\PodasApi.Entities.dll
+D:\Mario\desarrollos\podas\Backend\PodasApi\Model\obj\Debug\netcoreapp2.2\PodasApi.Entities.csproj.CoreCompileInputs.cache
+D:\Mario\desarrollos\podas\Backend\PodasApi\Model\obj\Debug\netcoreapp2.2\PodasApi.Entities.AssemblyInfoInputs.cache
+D:\Mario\desarrollos\podas\Backend\PodasApi\Model\obj\Debug\netcoreapp2.2\PodasApi.Entities.AssemblyInfo.cs
+D:\Mario\desarrollos\podas\Backend\PodasApi\Model\bin\Debug\netcoreapp2.2\PodasApi.Entities.pdb
+D:\Mario\desarrollos\podas\Backend\PodasApi\Model\obj\Debug\netcoreapp2.2\PodasApi.Entities.dll
+D:\Mario\desarrollos\podas\Backend\PodasApi\Model\obj\Debug\netcoreapp2.2\PodasApi.Entities.pdb
+D:\Mario\desarrollos\podas\Backend\PodasApi\Model\obj\Debug\netcoreapp2.2\PodasApi.Entities.csprojAssemblyReference.cache

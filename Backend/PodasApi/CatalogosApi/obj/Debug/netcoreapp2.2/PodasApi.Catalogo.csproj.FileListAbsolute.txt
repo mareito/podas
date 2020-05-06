@@ -1,0 +1,17 @@
+D:\Mario\desarrollos\podas\Backend\PodasApi\CatalogosApi\bin\Debug\netcoreapp2.2\PodasApi.Catalogo.deps.json
+D:\Mario\desarrollos\podas\Backend\PodasApi\CatalogosApi\bin\Debug\netcoreapp2.2\PodasApi.Catalogo.runtimeconfig.json
+D:\Mario\desarrollos\podas\Backend\PodasApi\CatalogosApi\bin\Debug\netcoreapp2.2\PodasApi.Catalogo.runtimeconfig.dev.json
+D:\Mario\desarrollos\podas\Backend\PodasApi\CatalogosApi\bin\Debug\netcoreapp2.2\PodasApi.Catalogo.dll
+D:\Mario\desarrollos\podas\Backend\PodasApi\CatalogosApi\bin\Debug\netcoreapp2.2\PodasApi.Catalogo.pdb
+D:\Mario\desarrollos\podas\Backend\PodasApi\CatalogosApi\obj\Debug\netcoreapp2.2\PodasApi.Catalogo.csproj.CoreCompileInputs.cache
+D:\Mario\desarrollos\podas\Backend\PodasApi\CatalogosApi\obj\Debug\netcoreapp2.2\PodasApi.Catalogo.RazorAssemblyInfo.cache
+D:\Mario\desarrollos\podas\Backend\PodasApi\CatalogosApi\obj\Debug\netcoreapp2.2\PodasApi.Catalogo.RazorAssemblyInfo.cs
+D:\Mario\desarrollos\podas\Backend\PodasApi\CatalogosApi\obj\Debug\netcoreapp2.2\PodasApi.Catalogo.AssemblyInfoInputs.cache
+D:\Mario\desarrollos\podas\Backend\PodasApi\CatalogosApi\obj\Debug\netcoreapp2.2\PodasApi.Catalogo.AssemblyInfo.cs
+D:\Mario\desarrollos\podas\Backend\PodasApi\CatalogosApi\obj\Debug\netcoreapp2.2\PodasApi.Catalogo.RazorTargetAssemblyInfo.cache
+D:\Mario\desarrollos\podas\Backend\PodasApi\CatalogosApi\obj\Debug\netcoreapp2.2\PodasApi.Catalogo.dll
+D:\Mario\desarrollos\podas\Backend\PodasApi\CatalogosApi\obj\Debug\netcoreapp2.2\PodasApi.Catalogo.pdb
+D:\Mario\desarrollos\podas\Backend\PodasApi\CatalogosApi\bin\Debug\netcoreapp2.2\PodasApi.Entities.dll
+D:\Mario\desarrollos\podas\Backend\PodasApi\CatalogosApi\bin\Debug\netcoreapp2.2\PodasApi.Entities.pdb
+D:\Mario\desarrollos\podas\Backend\PodasApi\CatalogosApi\obj\Debug\netcoreapp2.2\PodasApi.Catalogo.csprojAssemblyReference.cache
+D:\Mario\desarrollos\podas\Backend\PodasApi\CatalogosApi\obj\Debug\netcoreapp2.2\PodasApi.Catalogo.csproj.CopyComplete

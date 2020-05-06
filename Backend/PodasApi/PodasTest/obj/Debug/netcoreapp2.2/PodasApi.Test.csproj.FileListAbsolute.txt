@@ -1,0 +1,14 @@
+D:\Mario\desarrollos\podas\Backend\PodasApi\PodasTest\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Mario\desarrollos\podas\Backend\PodasApi\PodasTest\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+D:\Mario\desarrollos\podas\Backend\PodasApi\PodasTest\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+D:\Mario\desarrollos\podas\Backend\PodasApi\PodasTest\bin\Debug\netcoreapp2.2\PodasApi.Test.deps.json
+D:\Mario\desarrollos\podas\Backend\PodasApi\PodasTest\bin\Debug\netcoreapp2.2\PodasApi.Test.runtimeconfig.json
+D:\Mario\desarrollos\podas\Backend\PodasApi\PodasTest\bin\Debug\netcoreapp2.2\PodasApi.Test.runtimeconfig.dev.json
+D:\Mario\desarrollos\podas\Backend\PodasApi\PodasTest\bin\Debug\netcoreapp2.2\PodasApi.Test.dll
+D:\Mario\desarrollos\podas\Backend\PodasApi\PodasTest\bin\Debug\netcoreapp2.2\PodasApi.Test.pdb
+D:\Mario\desarrollos\podas\Backend\PodasApi\PodasTest\obj\Debug\netcoreapp2.2\PodasApi.Test.csprojAssemblyReference.cache
+D:\Mario\desarrollos\podas\Backend\PodasApi\PodasTest\obj\Debug\netcoreapp2.2\PodasApi.Test.csproj.CoreCompileInputs.cache
+D:\Mario\desarrollos\podas\Backend\PodasApi\PodasTest\obj\Debug\netcoreapp2.2\PodasApi.Test.AssemblyInfoInputs.cache
+D:\Mario\desarrollos\podas\Backend\PodasApi\PodasTest\obj\Debug\netcoreapp2.2\PodasApi.Test.AssemblyInfo.cs
+D:\Mario\desarrollos\podas\Backend\PodasApi\PodasTest\obj\Debug\netcoreapp2.2\PodasApi.Test.dll
+D:\Mario\desarrollos\podas\Backend\PodasApi\PodasTest\obj\Debug\netcoreapp2.2\PodasApi.Test.pdb
